@@ -3,7 +3,7 @@ Instructions to run the code
 Step 1: fetch the data from the Google Maps API into input.txt
 Step 2: check all the files are withing the same folder
 Step 3: check the input format from inputExplaination.txt and check everything that is needed is written in input.txt
-Step 4: run the following commands inside a terminal
+Step 4: Run the following commands inside a terminal
         
         g++ ./optimalPathProblem.cpp -o optimalPath
         ./optimalPath

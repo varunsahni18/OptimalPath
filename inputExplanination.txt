@@ -1,0 +1,5 @@
+Number of Cities = n
+Source City
+Rest of the cityes space separated
+Number of Edges = k
+FROM TO DISTANCE // k times

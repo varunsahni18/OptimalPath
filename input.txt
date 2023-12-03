@@ -1,0 +1,10 @@
+4
+Delhi
+Maharashtra Gujrat Rajasthan
+6
+Maharashtra Gujrat 415
+Rajasthan Delhi 280
+Maharashtra Delhi 1200
+Maharashtra Rajasthan 1050
+Gujrat Rajasthan 625
+Gujrat Delhi 900

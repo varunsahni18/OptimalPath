@@ -1,8 +1,8 @@
 # OptimalPath <br>
 Instructions to run the code <br> <br>
-Step 1: fetch the data from the Google Maps API into input.txt <br>
-Step 2: check all the files are withing the same folder <br>
-Step 3: check the input format from inputExplaination.txt and check everything that is needed is written in input.txt<br>
+Step 1: Fetch the data from the Google Maps API into input.txt <br>
+Step 2: Check all the files are withing the same folder <br>
+Step 3: Check the input format from inputExplaination.txt and check everything that is needed is written in input.txt<br>
 Step 4: Run the following commands inside a terminal <br> <br>
         
         g++ ./optimalPathProblem.cpp -o optimalPath
